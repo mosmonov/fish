@@ -7,3 +7,5 @@ application =
 		scale = "letterbox"
 	}
 }
+
+-- this is a comment
